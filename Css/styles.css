@@ -7,5 +7,6 @@ h1{
 img{
     width: 250 px;
     border-radius: 200px;
+    border-block: 20px;
     border-block-color:violet ;
 }
